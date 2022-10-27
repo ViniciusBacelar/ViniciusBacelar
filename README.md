@@ -15,7 +15,7 @@
   <img align="center" alt="Vini-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Vini-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Vini-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="left" alt="Vini-pic" height="200" style="border-radius:100px;" src="https://www.pngplay.com/wp-content/uploads/12/The-Amazing-Spider-Man-2-PNG-Clipart-Background.png">
+  <img align="left" alt="Vini-pic" height="180" style="border-radius:100px;" src="https://www.pngplay.com/wp-content/uploads/12/The-Amazing-Spider-Man-2-PNG-Clipart-Background.png">
   
   <img align="left" alt="Vini-pic" height="100px" width="500px" style="border-radius:100px;" src="https://cdn.pixabay.com/photo/2017/01/14/18/42/lightsaber-1980163_960_720.png"><br>
   
