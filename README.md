@@ -16,20 +16,23 @@
   <img align="center" alt="Vini-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Vini-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="left" alt="Vini-pic" height="150" style="border-radius:100px;" src="https://www.pngplay.com/wp-content/uploads/12/The-Amazing-Spider-Man-2-PNG-Clipart-Background.png">
- 
- ##
+  <img align="left" alt="Vini-pic" height="100px" width="500px" style="border-radius:100px;" src="https://cdn.pixabay.com/photo/2017/01/14/18/42/lightsaber-1980163_960_720.png"><br>
   
-  <img align="left" alt="Vini-pic" height="100px" width="500px" style="border-radius:100px;" src="https://cdn.pixabay.com/photo/2017/01/14/18/42/lightsaber-1980163_960_720.png">
-  </div>
- 
+</div>
+  
   ##
   
-<div> 
+  
+  <div>
+    
+     "May The Force Be With You!"
+    
+    
   <a href="https://instagram.com/vinicius_bs.png" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciusbacelar05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-bacelar-santana-b7a3561a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:viniciusbacelar123@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- 
+ </div>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
