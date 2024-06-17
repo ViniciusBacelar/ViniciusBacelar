@@ -1,4 +1,4 @@
-## 🚀 HELLO EVERYONE, I AM VINICIUS BACELAR, BACKEND SOFTWARE ENGINEER  🚀
+## 🚀 HELLO EVERYONE, I AM A BACKEND SOFTWARE ENGINEER  🚀
 <div align="left">
   <p></p>
   <a href="https://github.com/ViniciusBacelar">
